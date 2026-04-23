@@ -14,24 +14,43 @@ Communication barriers with mainstream learning systems
 This solution bridges that gap through an inclusive, voice-powered learning ecosystem.
 
 🚀 Key Features
+
 🎤 Voice-First Accessibility
+
 Complete voice-powered navigation
+
 In-app voice assistant for guidance
+
 Speech-based interaction for seamless usability
+
 🧠 Skill Development
+
 Audio-based vocational courses
+
 Language learning & pronunciation training
+
 Regular assessments to track improvement
+
 🤝 Community & Support
+
 Real-time communication between users
+
 Interactive chatbot for companionship
+
 Live sessions with vocational experts
+
 🎮 Cognitive Training
+
 Fun and interactive games to improve mental ability
+
 Engagement-driven learning experience
+
 📊 Feedback & Personalization
+
 User feedback system
+
 Performance tracking and analytics
+
 🛠️ Tech Stack
 
 Frontend:
@@ -52,7 +71,7 @@ Google Cloud – Hosting, scalability, and performance
 🧩 System Architecture
 
 🔍 Architecture Explanation
-
+<img width="501" height="447" alt="Image" src="https://github.com/user-attachments/assets/c66ad950-ab41-4a2f-b5dc-6753355cce9d" />
 1. Frontend (Flutter App)
 
 Provides accessible UI with screen reader compatibility
